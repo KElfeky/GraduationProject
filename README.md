@@ -47,6 +47,7 @@ This data analysis project aims to provide some insights about UK Train Rides
     - Excel - Data cleaning
     - SQL
     - Power BI - Data Modelling, Data Reports, Dashboards
+    - PowerPoint
 
 
 ---
