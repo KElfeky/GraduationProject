@@ -7,10 +7,10 @@
  - [Results/Findings](#results/findings)
  - [Recommendations](#recommendations)
  - [References](#references)
- - [Collaborators](#team)
+ - [Team](#team)
 
 ---
-### Project Overview
+# Project Overview
 
 This data analysis project aims to provide some insights about UK Train Rides
 ![alt text](https://deih43ym53wif.cloudfront.net/large_west-somerset-railway-england-shutterstock_705938185_17bac5a710.jpeg)
@@ -35,7 +35,7 @@ This data analysis project aims to provide some insights about UK Train Rides
 
 - [project_work.pdf](https://github.com/user-attachments/files/19682406/project_work.pdf)
 
-### Collaborators
+# Team
     1. Ahmed Farouk
     2. Khaled Elfeky
     3. Mona Mohamadi
@@ -43,8 +43,9 @@ This data analysis project aims to provide some insights about UK Train Rides
     5. Hamed
 
 
-### Tools
+# Tools
     - Excel - Data cleaning
+    - SQL
     - Power BI - Data Modelling, Data Reports, Dashboards
 
 
