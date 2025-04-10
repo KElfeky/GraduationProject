@@ -23,6 +23,7 @@ This data analysis project aims to provide some insights about UK Train Rides
 - [Download Dashboard](https://github.com/KElfeky/GraduationProject/blob/main/Build/Graduation%20Project_1a.pbix)
 - [New Text Document.txt](https://github.com/user-attachments/files/19682349/New.Text.Document.txt)
 - [Power BI_Projects Ideas.pdf](https://github.com/user-attachments/files/19682350/Power.BI_Projects.Ideas.pdf)
+- [powerpoint presentation](https://github.com/user-attachments/files/19685897/UK.RailWay.pptx)
 
 - [railway_data_dictionary.csv](https://github.com/user-attachments/files/19682360/railway_data_dictionary.csv)
 
